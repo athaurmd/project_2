@@ -3,7 +3,7 @@
 
  
  ## What I learnt in this project?
- ## css prperties
+ ## css properties
  - flexbox
  - background-image
  - z-index
