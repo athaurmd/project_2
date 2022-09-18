@@ -17,7 +17,7 @@
     50 minutes 
 
  ### Live link of the project    
-[Netlify](https://62ec691d45349f5e5239b7b7--landing-websites.netlify.app/)
+[Netlify](https://food-restaurant-web-page.netlify.app/)
 
 
 
